@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./rogatayatvar",
-		"particle": "./rogatayatvar"
+		"0": "./stop_pt",
+		"particle": "./stop_pt"
 	},
 	"elements": [
 		{
